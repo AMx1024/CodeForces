@@ -6,8 +6,7 @@ while k > 0:
         if x >= k:
             n -= k
             k = 0
-            break
-        
+            break        
         else:
             n -= x
             k -= x
