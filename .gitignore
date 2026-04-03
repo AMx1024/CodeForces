@@ -1,0 +1,34 @@
+# ---- CPH (Competitive Programming Helper) ----
+.cph/
+cph/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# ---- VS Code ----
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ---- Misc ----
+*.out
+*.exe
